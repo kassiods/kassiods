@@ -11,7 +11,7 @@ KASSIO
 ![arduino](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kassiods&layout=donut&theme=dark)](https://github.com/kassiods/github-readme-stats) ![eltobrgs's GitHub stats](https://github-readme-stats.vercel.app/api?username=kassiods&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kassiods&layout=donut&theme=dark)](https://github.com/kassiods/github-readme-stats) ![kassiods's GitHub stats](https://github-readme-stats.vercel.app/api?username=kassiods&show_icons=true&theme=dark)
 
 ### contato:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kassio.ds/)
