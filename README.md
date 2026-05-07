@@ -26,7 +26,12 @@
 
 ###
 
-<p align="left">🎓 Technical IT student at IFPI — 3rd year<br>💡 Passionate about technology, web development, and AI-powered solutions  <br>🚀 Always looking for challenges that help me grow as a developer and as a person  <br>🎯 My goal: to create solutions that positively impact people's lives</p>
+<p align="left">
+🎓 ADS student at IFPI — 1st semester<br>
+💡 Passionate about technology, web development, and AI-powered solutions<br>
+🚀 Always looking for challenges that help me grow as a developer and as a person<br>
+🎯 My goal: to create solutions that positively impact people's lives
+</p>
 
 ###
 
